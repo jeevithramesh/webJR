@@ -17,11 +17,13 @@
     "moduleResolution": "node",
     "importHelpers": true,
     "target": "es2017",
-    "module": "es2020",
-    "lib": [
-      "es2020",
-      "dom"
-    ]
+    "module": "esnext",
+    "lib": ["es2018", "dom"],
+    "paths": {
+      "mfe_1/*": ["mfe/mfe1/src/lib/*"],
+      "mfe_2/*": ["mfe/mfe2/src/lib/*"],
+      "module-federation": ["module-federation"]
+    }
   },
   "angularCompilerOptions": {
     "enableI18nLegacyMessageIdFormat": false,

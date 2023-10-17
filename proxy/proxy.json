@@ -1,0 +1,14 @@
+{
+  "/mfe_1/*": {
+    "target": "http://localhost:4000",
+    "secure": false,
+    "logLevel": "debug",
+    "changeOrigin": true
+  },
+  "/mfe_2/*": {
+    "target": "http://localhost:4000",
+    "secure": false,
+    "logLevel": "debug",
+    "changeOrigin": true
+  }
+}

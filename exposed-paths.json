@@ -1,0 +1,8 @@
+{
+  "mfe_1": {
+    "./modules/work-experience.module": "./mfe/mfe1/src/lib/modules/work-experience/work-experience.module.ts"
+  },
+  "mfe_2": {
+    "./modules/about-me.module": "./mfe/mfe2/src/lib/modules/about-me/about-me.module.ts"
+  }
+}

@@ -1,0 +1,6 @@
+[submodule "mfe/mfe1"]
+    path = mfe/mfe1
+    url = https://github.com/jeevithramesh/mfe1
+[submodule "mfe/mfe2"]
+    path = mfe/mfe2
+    url =  https://github.com/jeevithramesh/mfe2
